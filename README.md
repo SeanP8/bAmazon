@@ -13,21 +13,21 @@
 
 1. **OPTIONS**
 
-    ![Options](images/options.png)
+    ![Options](images/options.PNG)
 1. **SHOW ITEMS FOR SALE**
 
-    ![Items for sale](images/itemsToBuy.png)
+    ![Items for sale](images/itemsToBuy.PNG)
 1. **USER WILL CHOOSE HOW MANY UNITS TO BUY**
     1. **IF THERE IS ENOUGH IN STOCK WILL SHOW PRICE TOTAL**
 
-    ![price total](images/promptPrice.png)
+    ![price total](images/promptPrice.PNG)
     2. **IF THERE IS NOT ENOUGH IN STOCK WILL SHOW _INSUFFICENT QUANTITY_**
 
-    ![Insuficient](images/tooMuch.png)
+    ![Insuficient](images/tooMuch.PNG)
 
 1. **DATABASE TABLE PRIOR TO PURCHASE**
 
-    ![dbPrior](images/dbPrePurchase.png)
+    ![dbPrior](images/dbPrePurchase.PNG)
 
 1. **DATABASE TABLE UPDATED AFTER PURCHASE**
-    ![dbPost](images/dbUpdate.png)
+    ![dbPost](images/dbUpdate.PNG)
