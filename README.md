@@ -21,6 +21,7 @@
     1. **IF THERE IS ENOUGH IN STOCK WILL SHOW PRICE TOTAL**
 
     ![price total](images/promptPrice.PNG)
+
     2. **IF THERE IS NOT ENOUGH IN STOCK WILL SHOW _INSUFFICENT QUANTITY_**
 
     ![Insuficient](images/tooMuch.PNG)
@@ -30,4 +31,5 @@
     ![dbPrior](images/dbPrePurchase.PNG)
 
 1. **DATABASE TABLE UPDATED AFTER PURCHASE**
+
     ![dbPost](images/dbUpdate.PNG)
