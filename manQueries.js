@@ -1,1 +1,1 @@
-//exports.getProductsForSale = async(connection, query, ){};
+exports.getProductsForSale =(connection, query, )=>{};
