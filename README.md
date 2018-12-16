@@ -2,7 +2,9 @@
 
 ## This is my bamazon store using MySQL & Node.js
 
-### The store is seen through the perspective of a **Consumer View**
+### The store is seen through the perspective of a **Consumer** & **Manager**
+
+### _**CUSTOMER OVERVIEW**_
 
 1. It will show the available items for sale
 1. Allows the user to make a purchase of multiple units of an item
@@ -33,3 +35,35 @@
 1. **DATABASE TABLE UPDATED AFTER PURCHASE**
 
     ![dbPost](images/dbUpdate.PNG)
+
+---
+
+### _**MANAGER OVERVIEW**_
+
+1. It will show available products
+1. To search for _low_ inventory the user can input a number and it will show inventory for products that have an amount less than the amount entered.
+1. The manager is allowed to _add-more_ of any item currently in store.
+
+--- 
+
+_**Application walk through:**_
+
+1. **INITIAL OPTIONS**
+
+    ![Man Options](images/ManPrompt.PNG)
+
+1. **VIEW ITEMS**
+
+    ![View Inventory](images/ManForSale.PNG)
+
+1. **VIEW LOW INVENTORY**
+
+    ![Low Inventory](images/ManLowIn.PNG)
+
+1. **RE-STOCK ITEMS**
+
+    ![Re-stock](images/ManReStock.PNG)
+
+1. **DATABASE :: RE-STOCK :: UPDATE**
+
+    ![Db update](images/mandbrestockup.PNG)
