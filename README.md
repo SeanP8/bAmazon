@@ -66,4 +66,4 @@ _**Application walk through:**_
 
 1. **DATABASE :: RE-STOCK :: UPDATE**
 
-    ![Db update](images/mandbrestockup.PNG)
+    ![Db update](images/ManDBReStockUp.PNG)
